@@ -26,7 +26,7 @@
   <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThummalaDedipya&&layout=compact&&show_icons=true&&theme=algolia&&hide_border=true" alt=" Thummala Dedipya GitHub Stats">
   <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ThummalaDedipya&&show_icons=true&&theme=algolia&&hide_border=true" alt="Deepak Kumar* GitHub Stats"> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ThummalaDedipya&&show_icons=true&&theme=algolia&&hide_border=true" alt="Thummala Dedipya* GitHub Stats"> 
   </p>
 
 
