@@ -31,7 +31,7 @@
 
 
 
-[![Deepak's github activity graph](https://activity-graph.herokuapp.com/graph?username=ThummalaDedipya&&theme=react-dark)](https://github.com/ThummalaDedipya/github-readme-activity-graph)
+[![Deepak's github activity graph](https://activity-graph.herokuapp.com/graph/?username=ThummalaDedipya&&theme=react-dark)](https://github.com/ThummalaDedipya/github-readme-activity-graph)
 <br />
 
 
