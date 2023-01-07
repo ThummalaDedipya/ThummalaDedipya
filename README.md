@@ -25,7 +25,7 @@
 
 <p align="center">
  
-![Dedipya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThummalaDedipya&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/?username=ThummalaDedipya&&show_icons=true&&theme=algolia&&hide_border=true" alt="Dedipya GitHub Stats">
  
   <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThummalaDedipya&&layout=compact&&show_icons=true&&theme=algolia&&hide_border=true" alt=" Thummala Dedipya GitHub Stats">
