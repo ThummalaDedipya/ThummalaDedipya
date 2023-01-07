@@ -25,7 +25,7 @@
 
 <p align="center">
  
-<img src="https://github-readme-stats.vercel.app/api/?username=ThummalaDedipya&&show_icons=true&&theme=synthwave&&hide_border=false" alt="Dedipya GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api/?username=ThummalaDedipya&&show_icons=true&&theme=synthwave&&hide_border=true" alt="Dedipya GitHub Stats">
  
   <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThummalaDedipya&&layout=compact&&show_icons=true&&theme=synthwave&&hide_border=true" alt=" Thummala Dedipya GitHub Stats">
