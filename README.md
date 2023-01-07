@@ -15,8 +15,9 @@
 <h4 align="center"> 📫 Reach me at: <b>dedipyathummala@gmail.com</b></h4>
 <h4 align="center"> 😄 Pronouns: She/Her.</h4>
 
-
-
+<hr/>
+<h2 align="center"> BADGES 📊:</h2>
+[![An image of @thummaladedipya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thummaladedipya)](https://holopin.io/@thummaladedipya)
   
 <hr/>
 <h2 align="center"> GITHUB ACTIVITY 📊:</h2>
