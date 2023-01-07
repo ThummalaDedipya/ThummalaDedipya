@@ -24,7 +24,9 @@
 <h2 align="center"> GITHUB ACTIVITY 📊:</h2>
 
 <p align="center">
+ 
 ![Dedipya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThummalaDedipya&show_icons=true&theme=radical)
+ 
   <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThummalaDedipya&&layout=compact&&show_icons=true&&theme=algolia&&hide_border=true" alt=" Thummala Dedipya GitHub Stats">
   <br/>
