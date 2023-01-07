@@ -16,7 +16,7 @@
 <h4 align="center"> 😄 Pronouns: She/Her.</h4>
 
 <hr/>
-[![@thummaladedipya's Holopin badges](https://holopin.me/thummaladedipya)](https://holopin.io/@thummaladedipya)
+[![@thummaladedipya's Holopin board](https://holopin.me/thummaladedipya)](https://holopin.io/@thummaladedipya)
 <hr/>
 <h2 align="center"> GITHUB ACTIVITY 📊:</h2>
 
