@@ -32,7 +32,7 @@
   <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThummalaDedipya&&show_icons=true&&theme=algolia&&hide_border=true" alt="Thummala Dedipya* GitHub Stats"> 
   </p>
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThummalaDedipya&repo=github-readme-stats)](https://github.com/ThummalaDedipya/github-readme-stats)
 
 
 [![Dedipya's github activity graph](https://activity-graph.herokuapp.com/graph/?username=ThummalaDedipya&&theme=react-dark)](https://github.com/ThummalaDedipya/github-readme-activity-graph)
