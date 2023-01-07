@@ -16,9 +16,7 @@
 <h4 align="center"> 😄 Pronouns: She/Her.</h4>
 
 <hr/>
-<h2 align="center"> BADGES 📊:</h2>
-[![An image of @thummaladedipya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thummaladedipya)](https://holopin.io/@thummaladedipya)
-  
+[![@thummaladedipya's Holopin badges](https://holopin.me/thummaladedipya)](https://holopin.io/@thummaladedipya)
 <hr/>
 <h2 align="center"> GITHUB ACTIVITY 📊:</h2>
 
@@ -32,7 +30,7 @@
 
 
 
-[![Deepak's github activity graph](https://activity-graph.herokuapp.com/graph/?username=ThummalaDedipya&&theme=react-dark)](https://github.com/ThummalaDedipya/github-readme-activity-graph)
+[![Dedipya's github activity graph](https://activity-graph.herokuapp.com/graph/?username=ThummalaDedipya&&theme=react-dark)](https://github.com/ThummalaDedipya/github-readme-activity-graph)
 <br />
 
 
